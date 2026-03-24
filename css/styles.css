@@ -1,1 +1,18 @@
 /* styles go here*/
+/* Common styles od sections */
+.section {
+  background-color: #f2f2f2;
+  height: 700px;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+/* Navbar for mobile menu */
+.navbar-nav {
+  background-color: #ddd;
+}
+
+/* Center menu text */
+.navbar-nav > li > a {
+  text-align: center;
+}
